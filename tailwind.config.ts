@@ -32,6 +32,15 @@ export default {
 					DEFAULT: 'hsl(var(--secondary))',
 					foreground: 'hsl(var(--secondary-foreground))'
 				},
+				minecraft: {
+					green: '#4CAF50',
+					'light-green': '#8BC34A',
+					brown: '#795548',
+					'dark-green': '#2E7D32',
+					dirt: '#8D6E63',
+					stone: '#616161',
+					emerald: '#00E676'
+				},
 				destructive: {
 					DEFAULT: 'hsl(var(--destructive))',
 					foreground: 'hsl(var(--destructive-foreground))'
